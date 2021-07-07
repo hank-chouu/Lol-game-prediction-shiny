@@ -1,6 +1,6 @@
 # League of Legends game predictoin
 
-A Shiny app written in R, which is my final project for Financial Big Data Analysis course.
+A Shiny app written in R as a final project for Financial Big Data Analysis course.
 
 Logistic regression model was used in this app.
 
