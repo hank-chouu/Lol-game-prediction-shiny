@@ -1,6 +1,6 @@
 # League of Legends game predictoin
 
-A Shiny app written in R as a final project for Financial Big Data Analysis course.
+A Shiny app (single R script file) written in R as a final project for Financial Big Data Analysis course.
 
 Data sets are from this kaggle website: (https://www.kaggle.com/gyejr95/league-of-legends-challenger-ranked-games2020)
 
