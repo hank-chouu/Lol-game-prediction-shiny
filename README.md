@@ -4,4 +4,4 @@ A Shiny app written in R as a final project for Financial Big Data Analysis cour
 
 Logistic regression model was used in this app.
 
-Visit (https://www.shinyapps.io/admin/#/application/4321270) to feel it.
+Visit (https://hankchou1219.shinyapps.io/lol_display/) to feel it.
