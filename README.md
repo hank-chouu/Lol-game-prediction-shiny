@@ -1,4 +1,4 @@
-### lol_display
+# League of Legends game predictoin
 
 A Shiny app written in R, which is my final project for Financial Big Data Analysis course.
 
